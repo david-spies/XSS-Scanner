@@ -19,7 +19,7 @@ XSS Scanner should run on most Windows machines with very few dependencies.
 
 ## Installation from Source
 
-* Download the Start XSS Scan.
+* Download the XSS Scanner.
 * Run from terminal, IDLE, or your favorite IDE
 
 ## Source Modules & Packages
